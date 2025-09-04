@@ -20,7 +20,6 @@ body {
     font-weight: bold;
 }
 #wysu {
-    text-decoration:solid;
     border: 4px solid #92920b;
     text-align: right;
     width: 200px;
@@ -47,4 +46,8 @@ body {
     margin-right: 83px;
     margin-top: 30px;
      display: inline-block;
+
+}
+a {
+    text-decoration:none;
 }
